@@ -1,7 +1,7 @@
 ### Olá! Eu sou Fernando Michael Jhordan 👋
 
 - 🔭 Hoje trabalho com back-end e front-end
-- 🌱 Estudando PHP/OO
+- 🌱 Estudando C#/.NET
 - 📫 Contate-me no e-mail: nando_michael@hotmail.com
 - 😄 Pronouns: ele/dele
 
