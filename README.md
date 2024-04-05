@@ -11,7 +11,7 @@
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoJhordan&show_icons=true&theme=tokyonight)
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que tenho ou já tive contato
 
 
 <div style="display: inline_block"><br />
